@@ -49,7 +49,7 @@ of the *IEEE Transaction on Reliability*.
 
 ## Important Dates
 - Abstract submission deadline: December 14, 2018 AoE
-- Paper submission deadline: December 21, 2018 AoE
+- Paper submission deadline: ~~December 21, 2018 AoE~~ December 31, 2018 AoE
 - Notifications: January 11, 2019
 - Camera ready deadline: January 22, 2019
 - Workshop day: February 24, 2019
